@@ -19,7 +19,7 @@ header {
 
 .calc {
     margin: 20px auto;
-    background-image: url(img/2787641.jpg);
+    background-image: url(img/33-333095_wallpaper-of-artistic-geometry-gradient-purple-.jpg);
     width: 385px;
     padding: 30px;
     border-radius: 6px;
@@ -30,7 +30,7 @@ header {
     height: 60px;
     margin: 20px 0;
     border-radius: 6px;
-    background-color: rgba(23, 34, 56, 0.5);
+    background-color: rgba(201, 205, 213, 0.5);
     border-color: black;
     color: #fff;
     text-align: right;
@@ -67,7 +67,7 @@ header {
 }
 
 .btn-hover-green:hover {
-    background-color: rgb(80, 177, 80);
+    background-color: rgb(169, 58, 58);
     color: #f2f2f2;
 }
 
